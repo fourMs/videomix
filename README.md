@@ -2,9 +2,11 @@
 
 Software for mixing and projecting videos in real time, with simple sound-video interaction, face recognition, and basic video editing.
 
+<img width="428" height="213" alt="videomix1" src="https://github.com/user-attachments/assets/83e805e4-4922-4e8d-ae9f-8089f2e5abc4" />
+
 ## About
 
-VideoMix is a software for mixing and projecting videos in real time. The software allows simple sound-video interaction, face recognition, and some basic video editing.
+VideoMix is software for mixing and projecting videos in real time. The software allows simple sound-video interaction, face recognition, and some basic video editing.
 
 ### Instructions
 
@@ -42,8 +44,6 @@ Multiple builds were released over time. See the [Releases](../../releases) page
 
 - Authors: [Kristian Nymoen](http://folk.uio.no/krisny) and Astrid Aalgaard
 - Developed 2010–2011
-
-Developed at the fourMs Lab, Department of Musicology, University of Oslo.
 
 ---
 
